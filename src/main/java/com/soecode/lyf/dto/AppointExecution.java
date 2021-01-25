@@ -11,7 +11,7 @@ public class AppointExecution {
 	// 图书ID
 	private long bookId;
 
-	// 秒杀预约结果状态
+	// 秒杀预约结果状态，增加gitignore
 	private int state;
 
 	// 状态标识；；；；
