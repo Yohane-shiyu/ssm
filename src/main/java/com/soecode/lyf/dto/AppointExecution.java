@@ -14,7 +14,7 @@ public class AppointExecution {
 	// 秒杀预约结果状态
 	private int state;
 
-	// 状态标识
+	// 状态标识；；；；
 	private String stateInfo;
 
 	// 预约成功对象
