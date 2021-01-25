@@ -13,7 +13,7 @@ public class Result<T> {
 
 	public Result() {
 	}
-
+	//成功时的构造器
 	// 成功时的构造器
 	public Result(boolean success, T data) {
 		this.success = success;
