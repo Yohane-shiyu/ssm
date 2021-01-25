@@ -8,7 +8,7 @@ import com.soecode.lyf.enums.AppointStateEnum;
  */
 public class AppointExecution {
 
-	// 图书ID；；；；；
+	// 图书ID
 	private long bookId;
 
 	// 秒杀预约结果状态
