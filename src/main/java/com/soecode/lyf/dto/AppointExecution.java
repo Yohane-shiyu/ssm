@@ -38,6 +38,8 @@ public class AppointExecution {
 		this.appointment = appointment;
 	}
 	//增加自己写的东西，要提交，这次提交不带有不该commit的文件
+	//commit本段文字，并增加一个文件
+	//commit第二段文字，不增加文件
 
 	public long getBookId() {
 		return bookId;
