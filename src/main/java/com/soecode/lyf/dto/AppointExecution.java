@@ -14,7 +14,7 @@ public class AppointExecution {
 	// 秒杀预约结果状态，增加gitignore
 	private int state;
 
-	// 状态标识；；；；
+	// 状态标识
 	private String stateInfo;
 
 	// 预约成功对象
@@ -37,6 +37,7 @@ public class AppointExecution {
 		this.stateInfo = stateEnum.getStateInfo();
 		this.appointment = appointment;
 	}
+	//增加自己写的东西，要提交，这次提交不带有不该commit的文件
 
 	public long getBookId() {
 		return bookId;
