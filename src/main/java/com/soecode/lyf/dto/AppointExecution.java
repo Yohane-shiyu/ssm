@@ -42,7 +42,6 @@ public class AppointExecution {
 	//commit第二段文字，不增加文件
 	//commit第五段文字，不增加文件
 	//commit A
-	//commit B
 
 
 	public long getBookId() {

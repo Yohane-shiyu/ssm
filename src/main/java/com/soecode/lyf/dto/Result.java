@@ -13,7 +13,6 @@ public class Result<T> {
 
 	public Result() {
 	}
-	//commit B
 
 	// 成功时的构造器
 	public Result(boolean success, T data) {
